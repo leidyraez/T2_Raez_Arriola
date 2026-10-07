@@ -34,3 +34,15 @@ Esta sección identifica la evaluación T2 y documenta el control de versiones
 
 realizado mediante Git.
 
+
+
+\## Control de cambios
+
+
+
+Durante esta actividad se realizaron modificaciones controladas
+
+sobre el README.md y pom.xml, además de incorporar un archivo
+
+de observaciones para comprobar el funcionamiento del área de preparación.
+

@@ -1,0 +1,3 @@
+Observación de la evaluación:
+Se realizaron modificaciones sobre README.md y pom.xml
+para practicar el control de cambios mediante Git.
