@@ -22,7 +22,8 @@ Repositorio correspondiente a la evaluación práctica de Git.
 
 El repositorio permite gestionar y versionar el proyecto Maven mediante
 
-commits, modificaciones, staging y ramas. 
+commits, modificaciones, staging y ramas.
+
 
 
 
@@ -46,4 +47,18 @@ Durante esta actividad se realizaron modificaciones controladas
 sobre el README.md y pom.xml, además de incorporar un archivo
 
 de observaciones para comprobar el funcionamiento del área de preparación.
+
+
+
+
+
+\## Gestión de ramas
+
+
+
+Rama utilizada: feature-Raez.
+
+
+
+En esta rama se desarrolló de forma independiente la clase ControlVersion\_Raez.java, demostrando el uso de ramas en Git y posteriormente su integración con la rama principal.
 
