@@ -22,7 +22,8 @@ Repositorio correspondiente a la evaluación práctica de Git.
 
 El repositorio permite gestionar y versionar el proyecto Maven mediante
 
-commits, modificaciones, staging y ramas.
+commits, modificaciones, staging y ramas. 
+
 
 
 
